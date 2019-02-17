@@ -1,0 +1,3 @@
+Scraped images from google images using google-images-download python package. Using this type of command 
+
+$ googleimagesdownload -k "colours" -l 40000  -cd "/usr/local/bin/chromedriver"
